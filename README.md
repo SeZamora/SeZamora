@@ -33,7 +33,9 @@
 
 Estudiante de Ingeniería en Ciencias y Sistemas | Desarrollador de Software Full Stack
 
-Soy estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala, con un fuerte enfoque en el desarrollo de software Full Stack, especialmente en Back End.
+Estudiante en **último semestre de Ingeniería en Ciencias y Sistemas** en la Universidad de San Carlos de Guatemala, con **243 créditos completados**. Apasionado por el desarrollo de software **Full Stack**, con énfasis en **Back End**, construcción de APIs, bases de datos y soluciones escalables.  
+
+Me gusta aprender nuevas tecnologías, aplicar buenas prácticas de desarrollo y colaborar en proyectos que generen impacto real.
 
 <br><br>
 
@@ -45,7 +47,7 @@ Soy estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Ca
 
 - **Lenguajes**:
 
-	![C#](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000)
+	![C#](https://img.icons8.com/?size=50&id=1BC75jFEBED6&format=png&color=000000)
     ![Java](https://img.icons8.com/?size=50&id=Pd2x9GWu9ovX&format=png&color=000000)
     ![Python](https://img.icons8.com/?size=50&id=13441&format=png&color=000000)
     ![JavaScript](https://img.icons8.com/?size=50&id=108784&format=png&color=000000)
@@ -65,7 +67,7 @@ Soy estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Ca
    ![HTML5](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)
    ![CSS3](https://img.icons8.com/?size=50&id=21278&format=png&color=000000)
    ![Boostrap](https://img.icons8.com/?size=50&id=PndQWK6M1Hjo&format=png&color=000000)
-   ![Angular](https://img.icons8.com/?size=50&id=l9a5tcSnBwcf&format=png&color=000000)
+   ![React](https://img.icons8.com/?size=50&id=NfbyHexzVEDk&format=png&color=000000)
     
 
 <br>
@@ -74,8 +76,18 @@ Soy estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Ca
 
    ![MySQL](https://img.icons8.com/?size=50&id=UFXRpPFebwa2&format=png&color=000000)
    ![SQLite](https://img.icons8.com/?size=50&id=VMRAbKfEzssG&format=png&color=000000)
+   ![SQLServer](https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000)
 
 
+<br>
+
+- **Nube**:
+
+	![AWS](https://img.icons8.com/?size=50&id=33039&format=png&color=000000)
+	![Docker](https://img.icons8.com/?size=50&id=cdYUlRaag9G9&format=png&color=000000)
+	![Kubernetes](https://img.icons8.com/?size=50&id=cvzmaEA4kC0o&format=png&color=000000)
+
+ 	
 <br>
 
 - **Softwares y Herramientas**:
@@ -84,7 +96,6 @@ Soy estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Ca
     ![GitHub](https://img.icons8.com/?size=50&id=3tC9EQumUAuq&format=png&color=000000)
     ![Visual Studio Code](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)
     ![Neatbeans](https://img.icons8.com/?size=50&id=4djt356tq8UO&format=png&color=000000)
-    ![Docker](https://img.icons8.com/?size=50&id=cdYUlRaag9G9&format=png&color=000000)
     ![Ubuntu](https://img.icons8.com/?size=50&id=63208&format=png&color=000000)
     ![Windwos](https://img.icons8.com/?size=50&id=108792&format=png&color=000000)
     ![Postman](https://img.icons8.com/?size=50&id=EPbEfEa7o8CB&format=png&color=000000)
@@ -92,8 +103,7 @@ Soy estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Ca
 
 <br>
 
-- **Extras**:
-
+- **Extras**
   ![Markdown](https://img.icons8.com/?size=50&id=21827&format=png&color=000000)
   ![Json](https://img.icons8.com/?size=50&id=114474&format=png&color=000000)
   ![XML](https://img.icons8.com/?size=50&id=13396&format=png&color=000000)
