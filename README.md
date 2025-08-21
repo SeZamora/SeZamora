@@ -45,6 +45,7 @@ Soy estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Ca
 
 - **Lenguajes**:
 
+	![C#](https://iconos8.es/icon/1BC75jFEBED6/net-framework)
     ![Java](https://img.icons8.com/?size=50&id=Pd2x9GWu9ovX&format=png&color=000000)
     ![Python](https://img.icons8.com/?size=50&id=13441&format=png&color=000000)
     ![JavaScript](https://img.icons8.com/?size=50&id=108784&format=png&color=000000)
